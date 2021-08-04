@@ -18,15 +18,15 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Owner", url="https://t.me/afterdaytoxic"
+                        "⚒ Owner", url="https://t.me/hitecobotchanal"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/humangabutguys"
+                        "💬 Group", url="https://t.me/Gangofmafiateem"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/captionanakmuda"
+                        "Channel 🔈", url="https://t.me/hitecobotchanal"
                     )
                 ]
             ]
